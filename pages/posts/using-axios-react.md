@@ -6,17 +6,17 @@ tag: reactjs
 author: Marlon Falcon Hernandez
 ---
 
-1. Install Axios with npm or yarn
+- Install Axios with npm or yarn
 ```
 $ npm i axios
 ```
 
-2. Import Axios
+- Import Axios
 ```
 import axios from 'axios';
 ```
 
-3. Use Axios
+- Use Axios
 ```
  const loadAxios = () => {
    axios.get(URL).then(resp => {
