@@ -1,12 +1,10 @@
 ---
 title: axios
 date: 2021/10/21
-description: Hou use Axios in React
+description: Hou use Axios in ReactJs
 tag: reactjs
 author: Marlon Falcon Hernandez
 ---
-
-Ordered
 
 1.Install Axios
 ```
@@ -14,13 +12,11 @@ npm i axios
 ```
 
 2. Import Axios
-
 ```
 import axios from 'axios';
 ```
 
 3. Use Axios
-
 ```
  const loadAxios = () => {
    axios.get(URL).then(resp => {
