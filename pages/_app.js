@@ -1,6 +1,5 @@
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
-import splitbee from '@splitbee/web';
 
 import '../styles/main.css'
 
