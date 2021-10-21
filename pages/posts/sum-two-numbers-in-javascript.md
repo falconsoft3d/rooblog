@@ -2,7 +2,7 @@
 title: Sum two numbers in javascript
 date: 2021/10/21
 description: Sum in javascript
-tag: reactjs
+tag: javascript
 author: Marlon Falcon Hernandez
 ---
 
