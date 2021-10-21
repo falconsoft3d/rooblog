@@ -6,17 +6,17 @@ tag: reactjs
 author: Marlon Falcon Hernandez
 ---
 
-1. Install Fetch with npm or yarn
+- Install Fetch with npm or yarn
 ```
 $ npm i fetch
 ```
 
-2. Import fetch
+- Import fetch
 ```
 import fetch from 'fetch';
 ```
 
-3. Using Fetch
+- Using Fetch
 ```
  const loadFetch = async () => {
     const nuewData = []
