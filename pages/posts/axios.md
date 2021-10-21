@@ -6,9 +6,9 @@ tag: reactjs
 author: Marlon Falcon Hernandez
 ---
 
-1.Install Axios
+1. Install Axios with npm or yarn
 ```
-npm i axios
+$ npm i axios
 ```
 
 2. Import Axios
