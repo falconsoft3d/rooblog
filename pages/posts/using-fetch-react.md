@@ -1,4 +1,10 @@
 ---
+title: Using fetch in react
+date: 2021/10/21
+description: Hou use Fetch in ReactJs
+tag: reactjs
+author: Marlon Falcon Hernandez
+---
 
 1. Install Fetch with npm or yarn
 ```
